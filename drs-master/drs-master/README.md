@@ -9,11 +9,11 @@
   <br />
   <br />
 
-  <h2 align="center">Pixology - Digital Agency Website</h2>
+  <h2 align="center">Double R Studios - Marketing Agency Website</h2>
 
-  Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  This is a fully responsive marketing agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
+  <a href="https://knockturnalley.tk/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -47,8 +47,9 @@ git clone https://github.com/codewithsadee/pixology.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at asknafiz@p
+roton.meqqq
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is not free to use and does contains license.
