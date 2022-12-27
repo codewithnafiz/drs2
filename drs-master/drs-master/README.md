@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Pixology Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![DRS Desktop Demo](./d.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,24 +31,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Pixology** locally, run this command on your git bash:
+To run this Website **locally**, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/pixology.git
+sudo git clone https://github.com/codewithnafiz/drs2.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/pixology.git
+git clone https://github.com/codewithnafiz/drs2.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at asknafiz@p
-roton.meqqq
+If you want to contact with me you can reach me at asknafiz@proton.me
 
 ### License
 
